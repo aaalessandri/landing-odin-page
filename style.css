@@ -183,6 +183,7 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  gap: 20px;
   color: #F9FAF8;
 }
 
@@ -199,6 +200,7 @@ button {
   border: 2px solid #F9FAF8;
   background-color: transparent;
   color: #F9FAF8;
+  text-wrap: nowrap;
 }
 
 .footer {
